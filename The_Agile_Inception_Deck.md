@@ -4,6 +4,8 @@ Bài gốc tiếng anh [**The Agile Inception Deck**](https://agilewarrior.wordp
 
 Download [Blank Inception Deck](https://agilewarrior.files.wordpress.com/2010/11/blank-inception-deck.pptx) template.
 
+#
+
 Một lĩnh vực mà hầu hết các phương pháp Agile hoàn toàn không nói đến là điều lệ dự án. Dưới đây là một điều lệ gọn nhẹ mà bạn có thể sử dụng để đưa dự án đi đúng hướng trước khi những dòng mã đầu tiên được viết.
 
 ## 10 câu hỏi để hỏi khi bắt đầu dự án tiếp theo của bạn
@@ -32,7 +34,7 @@ Sự đồng chỉnh là về việc đảm bảo bạn và mọi người khác
 
 Mặt khác, thiết lập kỳ vọng là về việc bạn truyền thông tin rõ ràng với nhóm của bạn và các bên liên quan về những gì sẽ mất để làm cho dự án này thành công. Bạn đang định nghĩa các quy tắc của sự gắn kết.
 
-*Vâng, chúng tôi có thể xây dựng điều đó cho bạn.* *Không, nó không quá khó. Đây là những gì nó sẽ mất**...*
+*Vâng, chúng tôi có thể xây dựng điều đó cho bạn. Không, nó không quá khó. Đây là những gì nó sẽ mất...*
 
 Bạn cần có cuộc trò chuyện đó sớm và đảm bảo khách hàng của bạn biết bạn sẽ cần gì để phục vụ họ tốt nhất. Đừng giả sử. Hãy rõ ràng và hỏi.
 
