@@ -1,6 +1,4 @@
-# bla bla aka aha
-
-## Table of contents
+# Table of contents
 
 [The Agile Inception Deck](/The_Agile_Inception_Deck.md)
 
