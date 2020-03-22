@@ -1,5 +1,9 @@
 # Bài tập Drucker
 
+Bài gốc tiếng anh [**The Drucker Exercise**](https://agilewarrior.wordpress.com/2009/11/27/the-drucker-exercise/) của [**Jonathan Rasmusson**](https://agilewarrior.wordpress.com/about/) ở [đây](https://agilewarrior.wordpress.com/2009/11/27/the-drucker-exercise/).
+
+# 
+
 Thành lập một nhóm luôn lúng túng lúc ban đầu. Các bạn hoàn toàn mới với nhau, không ai biết ai thích hay không thích điều gì, và tất cả đều ở trên cùng một con thuyền đang cố gắng tìm ra cách để tất cả có thể làm việc cùng nhau.
 
 Thay vì để mọi người vấp ngã khi vận hành, hãy nói trước với họ! Các bạn có thể làm điều này một cách tập trung rõ ràng bằng **Bài tập Drucker**.
