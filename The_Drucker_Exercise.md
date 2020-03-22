@@ -2,11 +2,11 @@
 
 Bài gốc tiếng anh [**The Drucker Exercise**](https://agilewarrior.wordpress.com/2009/11/27/the-drucker-exercise/) của [**Jonathan Rasmusson**](https://agilewarrior.wordpress.com/about/) ở [đây](https://agilewarrior.wordpress.com/2009/11/27/the-drucker-exercise/).
 
-# 
+#
 
 Thành lập một nhóm luôn lúng túng lúc ban đầu. Các bạn hoàn toàn mới với nhau, không ai biết ai thích hay không thích điều gì, và tất cả đều ở trên cùng một con thuyền đang cố gắng tìm ra cách để tất cả có thể làm việc cùng nhau.
 
-Thay vì để mọi người vấp ngã khi vận hành, hãy nói trước với họ! Các bạn có thể làm điều này một cách tập trung rõ ràng bằng **Bài tập Drucker**.
+Thay vì để mọi người vấp ngã khi vận hành, hãy nói trước với họ! Các bạn có thể làm điều này một cách tập trung rõ ràng bằng Bài tập Drucker.
 
 **Bài tập Drucker**
 
@@ -29,9 +29,9 @@ Hiểu được điểm mạnh cốt lõi của bạn là tốt vì hai lý do. 
 
 Câu hỏi tiếp theo để tự hỏi là xung quanh **hiệu suất.**
 
- ![how-do-i-perform](/res/the-drucker-exercise/how-do-i-perform.png)
+![how-do-i-perform](/res/the-drucker-exercise/how-do-i-perform.png)
 
-Bạn làm việc như thế nào sẽ ghim trong đầu các thành viên trong nhóm rằng *phép thuật* của bạn đến từ đâu. Bạn có phải là người buổi sáng? Cho họ biết. Bằng cách đó, họ sẽ không sắp xếp các cuộc họp với bạn trong những giờ làm việc hiệu quả nhất của bạn.
+Bạn làm việc như thế nào sẽ ghim trong đầu các thành viên trong nhóm rằng _phép thuật_ của bạn đến từ đâu. Bạn có phải là người buổi sáng? Cho họ biết. Bằng cách đó, họ sẽ không sắp xếp các cuộc họp với bạn trong những giờ làm việc hiệu quả nhất của bạn.
 
 Nếu bạn thích hợp tác, nhưng đôi khi yêu cầu những khoảnh khắc cô đơn, hãy cho họ biết điều đó để họ không ngạc nhiên khi bạn ôm laptop rồi đi xuống quán cà phê động não một mình.
 
@@ -41,13 +41,13 @@ Câu hỏi tiếp theo phải làm với các **giá trị** của bạn.
 
 Giá trị là về những gì bạn đại diện cho. Để mọi người biết điều gì quan trọng với bạn và điều bạn quan tâm sâu sắc. Cho mọi người biết những gì bạn đại diện là rất quan trọng, bởi vì nó cho họ cái nhìn sâu sắc về những gì họ có thể mong đợi từ bạn, và dự đoán tốt hơn cách bạn sẽ hành động và hành xử.
 
-Ví dụ, hãy nói đến dự án cuối cùng của bạn, bạn luôn được yêu cầu cắt bớt, hack và mất mọi quyền tự do trên code base với lý do *tốc độ*. Chất lượng là tất cả, nhưng đã bị ném qua cửa sổ và bạn cảm thấy tồi tệ mỗi ngày khi biết rằng bạn sẽ không thể làm tốt nhất công việc của mình.
+Ví dụ, hãy nói đến dự án cuối cùng của bạn, bạn luôn được yêu cầu cắt bớt, hack và mất mọi quyền tự do trên code base với lý do _tốc độ_. Chất lượng là tất cả, nhưng đã bị ném qua cửa sổ và bạn cảm thấy tồi tệ mỗi ngày khi biết rằng bạn sẽ không thể làm tốt nhất công việc của mình.
 
 Nếu chất lượng là quan trọng đối với bạn trong dự án này thì hãy đặt kỳ vọng đó lên trước. Hãy để nhóm biết bạn sẽ đại diện cho nghề thủ công. Code của bạn sẽ luôn đi kèm với một bộ kiểm thử, bạn sẽ không chịu được bất kỳ lỗi nào.
 
 Điều này đưa chúng ta đến câu hỏi cuối cùng. Nhóm có thể mong đợi gì từ bạn trong dự án này.
 
-![what-contributions-can-i-be-expected-to-deliver](/res/the-drucker-exercise/what-contributions-can-i-be-expected-to-deliver.png) 
+![what-contributions-can-i-be-expected-to-deliver](/res/the-drucker-exercise/what-contributions-can-i-be-expected-to-deliver.png)
 
 Câu hỏi này thực sự đi vào việc bạn được mong đợi sẽ đóng vai trò gì trong dự án.
 
@@ -61,8 +61,12 @@ Sau đó, nếu bất kỳ kỳ vọng nào cần được đặt lại (bao g�
 
 **Đừng đợi**
 
-Bạn không cần phải đợi một dự án mới để thực hiện Bài tập Drucker. Bạn có thể làm điều đó ngay bây giờ. Vâng, phải có can đảm để chia sẻ loại công cụ này với nhóm của bạn. Nhưng khi bạn thực hiện thì phản hồi gần như luôn luôn như vậy: "*Điều này hữu ích nhất. Tại sao bạn không nói với tôi về điều này sớm hơn.*"
+Bạn không cần phải đợi một dự án mới để thực hiện Bài tập Drucker. Bạn có thể làm điều đó ngay bây giờ. Vâng, phải có can đảm để chia sẻ loại công cụ này với nhóm của bạn. Nhưng khi bạn thực hiện thì phản hồi gần như luôn luôn như vậy: "_Điều này hữu ích nhất. Tại sao bạn không nói với tôi về điều này sớm hơn._"
 
 Tất nhiên sức mạnh thực sự của bài tập này đến từ việc thực hiện nó như một nhóm và chia sẻ suy nghĩ của bạn với người khác.
 
-Đối với câu chuyện đầy đủ đằng sau Bài tập Drucker, hãy lấy một bản sao của [Quản lý bản thân](http://harvardbusiness.org/product/managing-oneself-hbr-classic/an/R0501K-PDF-ENG) và đọc cho nó đầy đủ. Bạn sẽ không thất vọng.
+Đối với câu chuyện đầy đủ đằng sau Bài tập Drucker, hãy lấy một bản sao của [Quản lý bản thân](https://hbr.org/2005/01/managing-oneself) và đọc cho nó đầy đủ. Bạn sẽ không thất vọng.
+
+#
+
+Bản dịch tiếng việt _Quản lý bản thân_ của anh Phạm Phước ở [đây](http://www.hoitrieuphu.com/2013/08/quan-tri-ban-than-peter-f-drucker.html).
