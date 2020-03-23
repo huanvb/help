@@ -14,10 +14,10 @@ Bài tập Drucker là một bài tập xây dựng mối quan hệ mạnh mẽ 
 
 Bằng cách chia sẻ câu trả lời cho bốn câu hỏi đơn giản:
 
-- Tôi giỏi về cái gì?
-- Tôi làm việc như thế nào?
-- Tôi coi trọng điều gì?
-- Đóng góp gì có thể được mong đợi từ tôi trong dự án này?
+* Tôi giỏi về cái gì?
+* Tôi làm việc như thế nào?
+* Tôi coi trọng điều gì?
+* Đóng góp gì có thể được mong đợi từ tôi trong dự án này?
 
 Bạn cung cấp cho nhóm phương tiện để tìm ra cách làm việc tốt nhất với bạn, đồng thời đặt ra những kỳ vọng xung quanh cách bạn có thể làm việc tốt nhất với họ.
 
@@ -69,4 +69,4 @@ Tất nhiên sức mạnh thực sự của bài tập này đến từ việc t
 
 #
 
-Bản dịch tiếng việt _Quản lý bản thân_ của anh Phạm Phước ở [đây](http://www.hoitrieuphu.com/2013/08/quan-tri-ban-than-peter-f-drucker.html).
+Bản dịch tiếng việt _Quản trị bản thân_ của anh Phạm Phước ở [đây](http://www.hoitrieuphu.com/2013/08/quan-tri-ban-than-peter-f-drucker.html).
