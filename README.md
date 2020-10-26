@@ -7,3 +7,5 @@
 [Managing Oneself - Summary](/Managing_Oneself-Summary.md)
 
 [Three Simple Truths](/Three_Simple_Truths.md)
+
+[Solid Relevance](/solid_relevance.md)
