@@ -1,19 +1,20 @@
-Các nguyên tắc `SOLID` vẫn thích hợp với ngày nay như nó đã từng trong những năm 90 (và thực sử trước đó). Điều này là do phần mềm đã không thay đổi nhiều trong ngần ấy năm – và đó là bởi vì phần mềm không có thay đổi nhiều kể từ năm 1945 khi Turing đã viết những dòng code đầu tiên cho một máy tính điện tử. Phần mềm vẫn là những câu lệnh `if`, các vòng lặp `while`, và các câu lệnh gán – Chuỗi, Lựa chọn và Lặp (_Sequence_, _Selection_, and _Iteration_).
+Các nguyên tắc `SOLID` vẫn thích hợp với ngày nay như những năm 90 đã từng (và thực sự trước đó). Lý do là phần mềm đã không thay đổi nhiều trong ngần ấy năm – và nó không thay đổi nhiều kể từ năm 1945 khi Turing viết những dòng mã đầu tiên cho một máy tính điện tử. Phần mềm vẫn là các câu lệnh `if`, vòng lặp `while`, và lệnh gán – Chuỗi, Lựa chọn và Lặp (_Sequence_, _Selection_, and _Iteration_).
 
 Mọi thế hệ mới đều thích nghĩ rằng thế giới của họ rất khác so với thế hệ trước. Mọi thế hệ mới đều sai về điều đó; đó là điều mà mọi thế hệ mới đều học được khi thế hệ mới tiếp theo xuất hiện để cho họ biết mọi thứ đã thay đổi nhiều như thế nào. `<grin>`
 
-Vì vậy, hãy cùng tìm hiểu từng nguyên tắc một.
+Vì vậy, hãy cùng tìm hiểu từng nguyên tắc.
 
 ## SRP: The Single Responsibility Princciple
 
 ```
 Gather together the things that change for the same reasons. Separate things that change for different reasons.
-Gộp những thay đổi vì cùng lý do. Tác những thứ thay đổi vì các lý do khác nhau.
+
+*Gộp* những thay đổi vì cùng lý do. *Tách* những thứ thay đổi vì các lý do khác nhau.
 ```
 
-Thật khó tưởng tượng rằng nguyên tắc này không liên quan đến phần mềm. Chúng ta không trộn điều lệ kinh doanh với GUI code. Chúng ta không trộn truy vấn SQL với các giao thức truyền thông. Chúng ta để tách riêng các code bị thay đổi vì những lý do khác nhau sao cho thay đổi ở một bộ phận không làm hỏng các bộ phận khác. Chúng ta đảm bảo rằng các modules thay đổi vì các lý do khác nhau không phụ thuộc làm rối nhau.
+Thật khó tưởng tượng rằng nguyên tắc này không liên quan đến phần mềm. Chúng ta không trộn điều lệ kinh doanh với mã GUI. Chúng ta không trộn truy vấn SQL với các giao thức truyền thông. Chúng ta tách riêng các code bị thay đổi vì những lý do khác nhau sao cho thay đổi ở một bộ phận không làm hỏng các bộ phận khác. Chúng ta đảm bảo rằng các modules thay đổi vì các lý do khác nhau không phụ thuộc làm rối nhau.
 
-Microservices không giải quyết được vấn đề này. Bạn có thể toạ một microservice lộn xộn, hoặc một tập các microsevies lộn xộn nếu bạn trộn mã thay đổi vì những lý do khác nhau.
+Microservices không giải quyết được vấn đề này. Bạn có thể tạo một microservice lộn xộn, hoặc một tập các microsevies lộn xộn nếu bạn trộn mã thay đổi vì những lý do khác nhau.
 
 Các slide của Dan North hoàn toàn không hiểu vấn đề này và thuyết phục rằng anh ấy không hiểu nguyên tắc nào cả (hoặc rằng anh ấy đang mỉa mai, mà biết Dan thì khả năng này nhiều hơn). Trả lời của anh ấy với SRP là `“Viết code đơn giản”`. Tôi đồng ý. SRP là một trong những cách chúng ta giữ code đơn giản.
 
@@ -21,12 +22,13 @@ Các slide của Dan North hoàn toàn không hiểu vấn đề này và thuy�
 
 ```
 A Module should be open for extension but closed for modification.
-Một module nên mở cho mở rộng nhưng đóng với việc sửa đổi.
+
+Một module nên *mở* cho việc mở rộng nhưng *đóng* với việc sửa đổi.
 ```
 
-Trong tất cả các nguyên tắc, cái ý tưởng rằng bất kỳ ai sẽ thắc mắc nguyên tắc này khiến tôi đầy lo sợ về tương lai của ngành công nghiệp của chúng ta. Tất nhiên chúng ta muốn tạo các mô-đun có thể mở rộng mà không cần sửa đổi chúng. Bạn có thể tưởng tượng làm việc trong một hệ thống không có tính độc lập về thiết bị, nơi mà việc ghi vào tệp đĩa về cơ bản khác với việc ghi vào máy in, màn hình hoặc ống dẫn? Chúng ta có muốn thấy câu lệnh `if` nằm rải rác trong mã của chúng ta để giải quyết tất cả các chi tiết nhỏ không?
+Trong tất cả các nguyên tắc, cái ý tưởng rằng bất kỳ ai sẽ thắc mắc nguyên tắc này khiến tôi đầy lo sợ về tương lai của ngành công nghiệp của chúng ta. Tất nhiên chúng ta muốn tạo các mô-đun có thể mở rộng mà không cần sửa đổi chúng. Bạn có thể tưởng tượng làm việc trong một hệ thống không có tính độc lập về thiết bị, nơi mà việc ghi tệp vào đĩa về cơ bản khác với việc ghi vào máy in, màn hình hoặc pipe? Chúng ta có muốn thấy câu lệnh `if` nằm rải rác trong mã của chúng ta để giải quyết tất cả các chi tiết nhỏ không?
 
-Or… Chúng ta muốn tách các khái niệm trừu tượng khỏi các khái niệm chi tiết. Chúng ta muốn để phân tách các quy tắc kinh doanh khỏi các chi tiết khó chịu của GUI, và các giao thức truyền thông cũng như các hành vi bất kỳ tới database? Tất nhiên chúng ta sẽ làm như vậy.
+Or… Chúng ta muốn tách các khái niệm trừu tượng khỏi các khái niệm chi tiết. Chúng ta muốn phân tách các quy tắc kinh doanh khỏi các chi tiết khó chịu của GUI, và các giao thức truyền thông cũng như các hành vi bất kỳ tới database? Tất nhiên chúng ta sẽ làm như vậy.
 
 Một lần nữa, các slide của Dan lại sai hoàn toàn. Khi các yêu cầu thay đổi chỉ một phần của mã hiện có bị sai. Phần lớn mã hiện tại vẫn đúng. Và chúng ta muốn đảm bảo rằng chúng ta không phải thay đổi những mã đúng chỉ để làm cho đoạn mã sai hoạt động trở lại. Câu trả lời của Dan là `"Viết mã đơn giản"`. Một lần nữa, tôi đồng ý. Và, trớ trêu thay, anh ấy đã đúng. Mã đơn giản là cả mở và đóng.
 
@@ -34,6 +36,7 @@ Một lần nữa, các slide của Dan lại sai hoàn toàn. Khi các yêu c�
 
 ```
 A program that uses an interface must not be confused by an implementation of that interface.
+
 Một chương trình sử dụng một giao diện không bị xáo trộn bởi một triển khai của giao diện đó.
 ```
 
