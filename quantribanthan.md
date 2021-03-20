@@ -1,6 +1,8 @@
-**Quản trị bản thân**
+# Quản trị bản thân
 
 **Peter F. Drucker**
+
+Người dịch: Phạm Phước
 
 Thời đại chúng ta đang sống mang đến cho con người những cơ hội chưa
 từng có: nếu có đủ tham vọng và khôn khéo, mỗi người có thể vươn tới
@@ -220,7 +222,7 @@ người đọc sẽ chịu chung số phận với Lyndon Johnson, và ngược
 người đọc cố gắng trở thành người lắng nghe sẽ chịu chung số phận với
 Dwight Eisenhower. Họ sẽ không thực hiện hay đạt được cái gì cả.
 
-**Tôi học bằng cách nào? **
+**Tôi học bằng cách nào?**
 
 Điều thứ hai cần phải biết về cách làm việc là biết về cách học. Có
 nhiều người viết giỏi, như Winston Churchill, học hành rất kém. Họ chỉ
@@ -446,7 +448,7 @@ Nhưng hầu hết tất cả mọi người, đặc biệt là những người
 cao, thường không biết họ thực sự thuộc về lĩnh vực nào cho đến khi họ
 vượt qua độ tuổi 25. Vào thời điểm đó, họ nên biết được câu trả lời cho
 ba câu hỏi sau: *Điểm mạnh của tôi là gì? Tôi thực hiện bằng cách
-nào?* và* Giá trị của tôi là gì?* Và sau đó họ nên và có thể quyết định
+nào?* và *Giá trị của tôi là gì?* Và sau đó họ nên và có thể quyết định
 họ thuộc về lĩnh vực nào.
 
 Hay đúng hơn, họ nên quyết định xem họ *không* thuộc về những lĩnh vực
