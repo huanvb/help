@@ -4,7 +4,7 @@
 
 Hoặc bản [pdf](/res/managing_oneself/Managing_Oneself.pdf).
 
-Bản dịch tiếng việt _Quản trị bản thân_ của anh Phạm Phước ở [đây](http://www.hoitrieuphu.com/2013/08/quan-tri-ban-than-peter-f-drucker.html).
+Bản dịch tiếng việt [_Quản trị bản thân_](http://www.hoitrieuphu.com/2013/08/quan-tri-ban-than-peter-f-drucker.html) của anh Phạm Phước.
 
 ##
 
