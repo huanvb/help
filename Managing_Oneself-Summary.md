@@ -1,6 +1,6 @@
 # Quản trị bản thân - Tóm tắt
 
-[Managing Oneself - Peter F. Drucker](https://hbr.org/2005/01/managing-oneself) đọc cho nó đầy đủ. Bạn sẽ không thất vọng.
+[Managing Oneself - Peter F. Drucker](https://hbr.org/2005/01/managing-oneself) hãy đọc đầy đủ, bạn sẽ không thất vọng.
 
 Hoặc bản [pdf](/res/managing_oneself/Managing_Oneself.pdf).
 
