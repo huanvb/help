@@ -9,3 +9,5 @@
 [Three Simple Truths](/Three_Simple_Truths.md)
 
 [Solid Relevance](/solid_relevance.md)
+
+[Quản trị bản thân](/quantribanthan.md)
